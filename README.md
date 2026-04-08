@@ -12,7 +12,7 @@ First Type This Command To Go In Root<br>
 <br>
 
 After Reaching Root Directory Run This Command <br>
-```bash <(curl -Ls https://raw.githubusercontent.com/farhanansari888/Personal-Script/main/personalscript.sh)```
+```bash <(curl -Ls https://raw.githubusercontent.com/Satyajeetkumarofficial/Personal-Script/main/personalscript.sh)```
 
 
 Now Reboot Your Vps And All Set
